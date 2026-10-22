@@ -8,11 +8,11 @@ const LINKS = {
   santraRepo: "https://github.com/K-kaustubh420/santra-api",
   recoverRepo: "https://github.com/K-kaustubh420/razorpay-recover-ai",
   energyRepo: "https://github.com/K-kaustubh420/energy-anomally-detection",
-  easymaps: "", // paste the live EasyMaps URL
-  linkedout: "", // paste the live LinkedOut URL
-  resume: "/resume.pdf", // put your PDF at public/resume.pdf
+  easymaps: "https://easymaps.vercel.app/", // paste the live EasyMaps URL
+  linkedout: "https://linkedout-delta.vercel.app/", // paste the live LinkedOut URL
+  resume: "https://drive.google.com/file/d/1A8BkZnNLnpYbmRCpBHWVU1TAWgY6U_8n/view?usp=sharing", // put your PDF at public/resume.pdf
   github: "https://github.com/K-kaustubh420",
-  email: "kk6682@srmist.edu.in",
+  email: "kkaustubh92@gmail.com",
 };
 
 /* Fill this in from the energy project's GET /model-evaluation output.
