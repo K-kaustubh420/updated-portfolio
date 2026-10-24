@@ -10,7 +10,7 @@ const LINKS = {
   energyRepo: "https://github.com/K-kaustubh420/energy-anomally-detection",
   easymaps: "https://easymaps.vercel.app/", // paste the live EasyMaps URL
   linkedout: "https://linkedout-delta.vercel.app/", // paste the live LinkedOut URL
-  resume: "https://drive.google.com/file/d/1A8BkZnNLnpYbmRCpBHWVU1TAWgY6U_8n/view?usp=sharing", // put your PDF at public/resume.pdf
+  resume: "https://drive.google.com/file/d/1DSe4-BxmSHM6IjRWvmfc3PL0cB8NLaQF/view?usp=sharing", // put your PDF at public/resume.pdf
   github: "https://github.com/K-kaustubh420",
   email: "kkaustubh92@gmail.com",
 };
